@@ -19,3 +19,4 @@ Dm me on discord (Name#9989)!
 * Carbon
 * Java
 * Backend (frontend is weird.)
+* Asynchronous programming

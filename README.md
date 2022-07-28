@@ -22,3 +22,5 @@ Dm me on discord (Name#9989)!
 * Java
 * Backend (frontend is weird.)
 * Asynchronous programming
+# Politics
+I really love poutine, the food not the president

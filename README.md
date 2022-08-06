@@ -1,5 +1,5 @@
 # projects
-* Consolang (A lib to have your language console interaction)
+* Pinguin-lang
 # help
 ### code
 Need help in python or java ?

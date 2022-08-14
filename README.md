@@ -5,7 +5,7 @@
 Angel protect lead dev
 # help
 ### code
-Need help in python or java ?
+Need help in python, c or java ?
 <br>
 Dm me on discord (Name#9989)!
 ### markup languages

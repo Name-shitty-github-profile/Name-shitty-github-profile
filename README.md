@@ -7,7 +7,7 @@ Angel protect lead dev
 Pinguin-lang creator
 # help
 ### code
-Need help in python, c or java ?
+Need help in python, pinguin or javascript ?
 <br>
 Dm me on discord (Name#9989)!
 ### markup languages

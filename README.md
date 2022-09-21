@@ -11,4 +11,3 @@ I code yeah bye
 
 # Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Name-shitty-github-profile&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=Name-shitty-github-profile&theme=gruvbox&border_radius=4.5)

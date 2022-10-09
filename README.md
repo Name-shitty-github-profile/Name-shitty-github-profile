@@ -1,3 +1,4 @@
+![HEADER](./header.png)
 # Noémie
 I code a lot, I made my own programming "language" btw, try it out, it's [Tython](https://github.com/Horizon-crp/tython) !
 # Languages

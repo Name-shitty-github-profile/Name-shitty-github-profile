@@ -1,6 +1,6 @@
 ![HEADER](./header.png)
 # Noémie
-I code a lot, I made my own programming "language" btw, try it out, it's [Tython](https://github.com/Horizon-crp/tython) !
+I code a lot, I made my own programming "language" btw, try it out, it's [Pyuwu](https://github.com/Name-shitty-github-profile/pyuwu) !
 # Languages
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://devicons.railway.app/i/python.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />

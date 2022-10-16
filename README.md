@@ -1,6 +1,6 @@
 ![HEADER](./header.png)
 # Noémie
-I code a lot, I made my own programming "language" btw, try it out, it's [Pyuwu](https://github.com/Name-shitty-github-profile/pyuwu) !
+I code a lot, I made my own programming "language" btw, try it out, it's [Rouille Tabarnak](https://github.com/Name-shitty-github-profile/rouille-tabarnak) !
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3o7bu6rpK7GL2KWlO0/giphy.gif">
 # Languages
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://devicons.railway.app/i/python.svg" />

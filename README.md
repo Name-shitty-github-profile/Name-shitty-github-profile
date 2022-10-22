@@ -1,6 +1,7 @@
 ![HEADER](./header.png)
 # Noémie
 I'm a coding genius acording to a lot of people, I made my own programming "language" btw, try it out, it's [Rouille Tabarnak](https://github.com/Name-shitty-github-profile/rouille-tabarnak) & 2 small IDE ([Console based (4 hours)](https://github.com/Name-shitty-github-profile/4-hours-IDE) & [Tkinter based (5 hours)](https://github.com/Name-shitty-github-profile/5-hours-tkinter-IDE)) !
+<br>
 **I now have a discord server ! : **https://discord.gg/XuhQWQav7F
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3o7bu6rpK7GL2KWlO0/giphy.gif">
 # Languages

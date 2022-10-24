@@ -4,6 +4,8 @@ I'm a coding genius acording to a lot of people, I made my own programming "lang
 <br>
 ### I now have a discord server ! : https://discord.gg/XuhQWQav7F
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3o7bu6rpK7GL2KWlO0/giphy.gif">
+<br>
+
 # Languages
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://devicons.railway.app/i/python.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />

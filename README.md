@@ -1,5 +1,3 @@
-Nothing to see here.
+Author of [CupLang](https://github.com/Clarity-inc/CupLang)
 <br>
-[CupLang](https://github.com/Clarity-inc/CupLang)
-<br>
-[SwiftOs](https://github.com/teamswiftos)
+Inactive for a while.

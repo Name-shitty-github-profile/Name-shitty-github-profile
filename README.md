@@ -1,3 +1,4 @@
-Author of [CupLang](https://github.com/Clarity-inc/CupLang)
+# I'M BACK!!!
+Hello so I kinda like to optimize my shits
 <br>
-Inactive for a while.
+Author of [CupLang](https://github.com/Clarity-inc/CupLang)

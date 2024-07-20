@@ -88,7 +88,7 @@ I got in a call with her and we started talking. (I was basically yelling at her
 And then she proposed to me if I wanted to help with the bot.
 <br>
 I said yes.
-![FOOTER](./footer.png)
+## Ending..
 <br>
 So I started to spent countless hours working on the bot, day and night, studying during the day, yelling and coding during the night..
 <br>
@@ -99,3 +99,4 @@ So we added more and more features again and again it was awesome and as the bot
 Yep, I was part of something big and great. That I will keep on improving everyday of my life! :)
 <br>
 (also maybe an RPG one day?)
+![FOOTER](./footer.png)

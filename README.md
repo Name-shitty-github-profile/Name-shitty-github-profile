@@ -11,9 +11,9 @@ You know, programming is always in english but what if it isn't especially in a 
 I once loved code editors, I even spent 95% of my time in one but I wanted to make my own, so I took 9 hours of my time, to make two of them (very basic and mostly a challenge to test how fast could I code)
 <br><br>
 One that is 
-## [Console based (4 hours)](https://github.com/Name-shitty-github-profile/4-hours-IDE)
+### [Console based (4 hours)](https://github.com/Name-shitty-github-profile/4-hours-IDE)
 and one that is 
-## [Tkinter based (5 hours)](https://github.com/Name-shitty-github-profile/5-hours-tkinter-IDE)
+### [Tkinter based (5 hours)](https://github.com/Name-shitty-github-profile/5-hours-tkinter-IDE)
 # The Holy Donut?
 You probably all know about HolyC, a language made by a guy that said was guided from god, even made an OS (templeOS), this story was facinating to me, like a netflix story. I loved it so much and wanted to try the language, so I asked myself a question : "What could be the most silly thing I could do in HolyC?" But then, I got bored and went trought my phone, I saw a donut render with a code in the shape of a donut. At first glance I didn't think anything of it and then a second later I was like what a brilliant idea!!! THAT WAS IT I WAS GOING TO MAKE THIS IN HOLYC SO HERE I WENT AND OH BOY I DID.<br>
 ![I LOVE THE BREAD, THE BAGUETTE, FRANCE!](https://user-images.githubusercontent.com/46300167/206304169-f15cd658-7cdf-4a56-931c-9e0943c43f28.gif)
